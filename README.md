@@ -1,4 +1,3 @@
-```mermaid
 # Koi Order System - Entity Relationship Diagram Documentation
 
 ## 1. Entities and Attributes
